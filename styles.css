@@ -1,2 +1,12 @@
+.holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 
+.item {
+    flex: 1 1 30%;
+    box-sizing: border-box;
+    margin: 5px;
+}
 /* Your CSS Code here. */
